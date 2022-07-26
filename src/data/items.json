@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "make": "Ford",
+    "price": 22845.46,
+    "model": "F350",
+    "imgUrl": "/images/ford.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Lexus",
+    "price": 73963.55,
+    "model": "IS-F",
+    "imgUrl": "/images/lexus.jpg"
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "price": 54784.79,
+    "model": "GT500",
+    "imgUrl": "/images/ford-gt500.jpg"
+  },
+  {
+    "id": 4,
+    "make": "Chrysler",
+    "price": 19217.86,
+    "model": "300",
+    "imgUrl": "/images/chrysler.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Land Rover",
+    "price": 179735.64,
+    "model": "Range Rover",
+    "imgUrl": "/images/landrover.jpg"
+  }
+]
