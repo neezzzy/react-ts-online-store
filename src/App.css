@@ -1,0 +1,28 @@
+/* HOME */
+.home-container {
+  overflow: hidden;
+  position: relative;
+}
+
+
+/* ABOUT */
+.featurette {
+  margin: 50px;
+}
+
+.img-container {
+  width: 500px;
+  height: 500px;
+}
+
+.featurette img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.main-img-store {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}

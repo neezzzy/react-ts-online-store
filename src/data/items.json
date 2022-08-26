@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "make": "Ford",
-    "price": 22845.46,
-    "model": "F350",
-    "imgUrl": "/images/ford.jpg"
+    "make": "Knit Bootie",
+    "price": 438.0,
+    "model": "Bouclé Knit Bootie (Women)",
+    "imgUrl": "/public/images/boots.jpg"
   },
   {
     "id": 2,
-    "make": "Lexus",
-    "price": 73963.55,
-    "model": "IS-F",
-    "imgUrl": "/images/lexus.jpg"
+    "make": "Silk Scarf",
+    "price": 995.0,
+    "model": "Fringe Cashmere & Silk Scarf",
+    "imgUrl": "/public/images/SilkScarf.jpg"
   },
   {
     "id": 3,
-    "make": "Ford",
-    "price": 54784.79,
-    "model": "GT500",
-    "imgUrl": "/images/ford-gt500.jpg"
+    "make": "Silk Sweater",
+    "price": 516.0,
+    "model": "Cashmere & Silk Sweater",
+    "imgUrl": "/public/images/SilkSweater.jpg"
   },
   {
     "id": 4,
-    "make": "Chrysler",
-    "price": 19217.86,
+    "make": "Knit Dress",
+    "price": 2490.00,
     "model": "300",
-    "imgUrl": "/images/chrysler.jpg"
+    "imgUrl": "/public/images/KnitDress.jpg"
   },
   {
     "id": 5,
-    "make": "Land Rover",
-    "price": 179735.64,
-    "model": "Range Rover",
-    "imgUrl": "/images/landrover.jpg"
+    "make": "Leather Bag",
+    "price": 1590.00,
+    "model": "Medium Alex Raffia & Leather Shopper",
+    "imgUrl": "/public/images/LeatherBag.jpg"
   }
 ]
