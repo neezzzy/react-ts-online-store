@@ -8,11 +8,13 @@
 /* ABOUT */
 .featurette {
   margin: 50px;
+
 }
 
 .img-container {
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
 }
 
 .featurette img {
@@ -21,8 +23,10 @@
   height: auto;
 }
 
+/* STORE */
 .main-img-store {
   width: 100%;
-  height: auto;
+  object-fit: cover;
+  height: 300px;
   overflow: hidden;
 }

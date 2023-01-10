@@ -6,7 +6,7 @@ import storeItems from "../data/items.json";
 export default function Store() {
   return (
     <div>
-      <div className="m-5 text-center">
+      <div className="text-center">
         <img
           className="main-img-store d-block mx-auto mb-4"
           src="../../public/images/main.jpg"
@@ -18,7 +18,7 @@ export default function Store() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
             error eos cumque.
           </p>
-          <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
+          <div className="d-grid gap-2 d-sm-flex justify-content-sm-center pb-4">
             <button type="button" className="btn btn-primary btn-lg px-4 gap-3">
               Explore More
             </button>
